@@ -60,7 +60,7 @@ body {
   line-height: 1.75;
   color: var(--textColor);
   background: var(--backdropColor);
-  background-image: url("/images/background.png");
+  background-image: url("/images/background.jpg");
   background-size: 75%;
 }
 
@@ -113,8 +113,14 @@ small,
 }
 
 a {
+  color: #68458F;
   text-decoration: none;
 }
+
+a:hover{
+  color: #FFD1F4;
+}
+
 ul {
   list-style-type: none;
   padding: 0;
