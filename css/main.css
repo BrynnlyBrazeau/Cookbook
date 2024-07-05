@@ -563,7 +563,7 @@ Recipe Template
 }
 .instructions {
   margin-top: -2.5rem;
-  white-space: pre;
+  white-space: pre-wrap;
   font-size: 1.1rem;
 }
 @media screen and (min-width: 992px) {
